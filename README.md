@@ -5,6 +5,7 @@
 - Stones da Costa Machado Júnior
 - Felipe Barros do Nascimento
 - Luciano carvalho da rocha filho
+- Joelma Benicio de Lima Printes
 
 ## Used Car Market Analysis
 
