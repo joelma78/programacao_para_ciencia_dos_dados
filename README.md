@@ -3,6 +3,7 @@
 ## Colaboradores
 - Matheus Nery de Souza Ferreira
 - Stones da Costa Machado Júnior
+- Joelma Benicio de Lima Printes
 - Felipe Barros do Nascimento
 - Luciano carvalho da rocha filho
 
